@@ -56,17 +56,16 @@
 * 1-  para realizar o desligamento autimático da VM  preciso ir na ***Operações da VM***, e selecionar a opção ***Desligamento       
      automático***, após uma página será aberta e vou poder configurar o tempo para o desligamento da VM, terminando de configurar a      hora vou ate ***salvar*** na parte superior para habilitar a config de desligamento automático.
 
-* 2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na          lista suspensa de fuso horario***
-
+* 2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na lista suspensa de fuso horario***
 
 
 ## Duvidas que eu tive no processo de entendimento sobre a VM Azure
 
 # Quanto cada disco "aguenta"?---> ***Cada disco de dados pode ter no ate no max 32.767 Gib*** 
 
-# Como eu faço se quiser alterar a letra da unidade do disco temporário?---> ***Eu posso alterar a letra da unidade movendo o   
-  arquivo de paginação e reatribuiindo as letras da unidade, mas preciso lembrar de seguir as etapas em uma ordem específica.***
+# Como eu faço se quiser alterar a letra da unidade do disco temporário?---> ***Eu posso alterar a letra da unidade movendo o arquivo de paginação e reatribuiindo as letras da unidade, mas preciso lembrar de seguir as etapas em uma ordem específica***
+  
 
 # Requesitos para nome da VM---> ***Deve ter no máximo 15 caracteres***
 
-# 
+
