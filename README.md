@@ -56,7 +56,7 @@
 * 1-  para realizar o desligamento autimático da VM  preciso ir na ***Operações da VM***, e selecionar a opção ***Desligamento       
      automático***, após uma página será aberta e vou poder configurar o tempo para o desligamento da VM, terminando de configurar a      hora vou ate ***salvar*** na parte superior para habilitar a config de desligamento automático.
 
-* 2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na          lista suspensa de fuso horario**
+* 2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na          lista suspensa de fuso horario***
 
 
 
