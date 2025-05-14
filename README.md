@@ -40,18 +40,18 @@
     receber um aviso do certificado durante o processo de login é apenas clicar em ***sim*** ou em ***Continuar*** para criar a 
     conexão.
     
- ## Processo de instalação do servidor Web
+ # Processo de instalação do servidor Web
 
 * 1-  Para vermos a VM em "ação", vou instalar o servidor Web do IIS, vou abrir um Prompt do PowerShell na VM e executar o seguinte 
      comando ***Prestar muita atenção na parte de abrir o PowerShell porque tem que ser aberto exatamente na VM***, e vamos executar 
      o seguinte comando ```Install-WindowsFeature -name Web-Server -IncludeManagementTools ```, quando terminar vou fechar a conexão 
      RDP com a VM.
 
-  ## Exibir a pág de boas-vindas do IIS
+  # Exibir a pág de boas-vindas do IIS
 
 * 1-  Essa etapa e mais curta e "Simples". No portal vou selecionar a VM e na visão geral da VM, vou passar o mouse sobre o endereço       de IP para mostrar ***Copiar para área de transferência***. Copiar o endereço de IP e colar em uma guia do navegador.
 
-  ## Desligamento automático da VM
+  # Desligamento automático da VM
 
 * 1-  para realizar o desligamento autimático da VM  preciso ir na ***Operações da VM***, e selecionar a opção ***Desligamento       
      automático***, após uma página será aberta e vou poder configurar o tempo para o desligamento da VM, terminando de configurar a      hora vou ate ***salvar*** na parte superior para habilitar a config de desligamento automático.
