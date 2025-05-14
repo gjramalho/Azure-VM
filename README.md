@@ -31,10 +31,10 @@
 
 ## Se conectando à máquina virtual
 
-*1- Vou clicar em ***Conectar>RDP*** na pág de visão geral da minha VM e nessa mesma guia em ***Conectarse-se ao RDP***, mantenha as 
+* 1- Vou clicar em ***Conectar>RDP*** na pág de visão geral da minha VM e nessa mesma guia em ***Conectarse-se ao RDP***, mantenha as 
     opções padrão para se conectar por endereço IP pela porta _3389_ e clicar em ***Baixar arquivo RDP**
 
-*2- Após fazer o dowload do arquivo RDP vou clicar em ***Conectar*** quando for solicitado. Após vamos na janela de ***Segurança do 
+* 2- Após fazer o dowload do arquivo RDP vou clicar em ***Conectar*** quando for solicitado. Após vamos na janela de ***Segurança do 
     Windows***, selecione ***Mais opções e Usar uma conta diferente***, Agora vou digitar o usuário como ***localhost\ nome de 
     usúario*** e vou insirir a senha que eu criei para a Máquina virtual, e vou clicar em ***OK***. Durante esse processo eu posso 
     receber um aviso do certificado durante o processo de login é apenas clicar em ***sim*** ou em ***Continuar*** para criar a 
@@ -42,21 +42,21 @@
     
  ## Processo de instalação do servidor Web
 
-*1-  Para vermos a VM em "ação", vou instalar o servidor Web do IIS, vou abrir um Prompt do PowerShell na VM e executar o seguinte 
+* 1-  Para vermos a VM em "ação", vou instalar o servidor Web do IIS, vou abrir um Prompt do PowerShell na VM e executar o seguinte 
      comando ***Prestar muita atenção na parte de abrir o PowerShell porque tem que ser aberto exatamente na VM***, e vamos executar 
      o seguinte comando ```Install-WindowsFeature -name Web-Server -IncludeManagementTools ```, quando terminar vou fechar a conexão 
      RDP com a VM.
 
   ## Exibir a pág de boas-vindas do IIS
 
-*1-  Essa etapa e mais curta e "Simples". No portal vou selecionar a VM e na visão geral da VM, vou passar o mouse sobre o endereço       de IP para mostrar ***Copiar para área de transferência***. Copiar o endereço de IP e colar em uma guia do navegador.
+* 1-  Essa etapa e mais curta e "Simples". No portal vou selecionar a VM e na visão geral da VM, vou passar o mouse sobre o endereço       de IP para mostrar ***Copiar para área de transferência***. Copiar o endereço de IP e colar em uma guia do navegador.
 
   ## Desligamento automático da VM
 
-*1-  para realizar o desligamento autimático da VM  preciso ir na ***Operações da VM***, e selecionar a opção ***Desligamento       
+* 1-  para realizar o desligamento autimático da VM  preciso ir na ***Operações da VM***, e selecionar a opção ***Desligamento       
      automático***, após uma página será aberta e vou poder configurar o tempo para o desligamento da VM, terminando de configurar a      hora vou ate ***salvar*** na parte superior para habilitar a config de desligamento automático.
 
-*2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na          lista suspensa de fuso horario**
+* 2- ***Não esquecer de configurar o fuso horário corretamente para corresponder aos seus requesitos, pq o UTC é a config padrão na          lista suspensa de fuso horario**
 
 
 
