@@ -8,7 +8,7 @@
    disponibilidade! Nesse arquivo REDME iremos comentar mais sobre o recursos de ***Iaas(Infrastructure as a Service )*** e boas 
    práticas.
 
-  ## Criando uma VM-(Maquina Virtual) no Azure***
+  ## Criando uma VM-(Maquina Virtual) no Azure
 
 * 1- Começamos criando uma conta no portal do Azure para conseguir ter acesso a criação de VMs.
 
