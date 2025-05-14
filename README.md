@@ -61,11 +61,11 @@
 
 ## Duvidas que eu tive no processo de entendimento sobre a VM Azure
 
-# Quanto cada disco "aguenta"?---> ***Cada disco de dados pode ter no ate no max 32.767 Gib*** 
+* Quanto cada disco "aguenta"?---> ***Cada disco de dados pode ter no ate no max 32.767 Gib*** 
 
-# Como eu faço se quiser alterar a letra da unidade do disco temporário?---> ***Eu posso alterar a letra da unidade movendo o arquivo de paginação e reatribuiindo as letras da unidade, mas preciso lembrar de seguir as etapas em uma ordem específica***
+* Como eu faço se quiser alterar a letra da unidade do disco temporário?---> ***Eu posso alterar a letra da unidade movendo o arquivo de paginação e reatribuiindo as letras da unidade, mas preciso lembrar de seguir as etapas em uma ordem específica***
   
 
-# Requesitos para nome da VM---> ***Deve ter no máximo 15 caracteres***
+* Requesitos para nome da VM---> ***Deve ter no máximo 15 caracteres***
 
 
