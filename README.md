@@ -1,8 +1,8 @@
 # Laboratório Azure: Documentação do que é o Azure, oque é IaaS, processo de criação de VMs, boas práticas e aprendizado teóricos 
   sobre o uso da platadorma Microsoft Azure
 
-## Oque é Microsoft Azure? É uma plataforma de computação em nuvem criada pela Microsoft. Ela oferece uma ampla variedade de 
-   serviços, 
+## Oque é Microsoft Azure?
+   É uma plataforma de computação em nuvem criada pela Microsoft. Ela oferece uma ampla variedade de  serviços, 
    como hospedagem de aplicações, armazenamento, banco de dados, inteligência artificial, redes e muita mais coisas! Com o Azure, 
    desenvolvedores e empresas podem criar, implantar e gerenciar aplicações em escala global com segurança, flexibilidade e alta 
    disponibilidade! Nesse arquivo REDME iremos comentar mais sobre o recursos de ***Iaas(Infrastructure as a Service )*** e boas 
